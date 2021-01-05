@@ -3,9 +3,15 @@
 
 AUTHOR = 'Ali'
 SITENAME = 'Ali'
-SITEURL = ''
+SITEURL = 'https://alialdakheel.github.io'
 
 PATH = 'content'
+THEME = 'flex'
+
+# THEME = 'Flex'
+# STATIC_PATHS = ['img', 'static']
+# FAVICON = 'img/favicon.ico'
+# CUSTOM_CSS = 'static/custom.css'
 
 TIMEZONE = 'America/New_York'
 
